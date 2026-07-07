@@ -114,7 +114,7 @@ netflix-clone/
 
 ## 🎥 Demo
 
-A short screen recording demonstrating the application is included in this repository.
+A quick preview of the application.
 
 **▶️ Demo Video:** 
 
