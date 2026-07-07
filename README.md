@@ -118,7 +118,7 @@ A short screen recording demonstrating the application is included in this repos
 
 **▶️ Demo Video:** [Watch Demo](app-working/endpoint.mp4)
 
-https://github.com/iamayan17/netflix-clone/tree/main/app-working/endpoint.mp4
+https://github.com/iamayan17/netflix-clone/tree/main/app-working/demo.gif
 
 > **Note:** If GitHub does not play the video directly in the README, click the link above to open it from the repository.
 
