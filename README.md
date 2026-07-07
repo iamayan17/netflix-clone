@@ -106,6 +106,8 @@ netflix-clone/
 
 A short screen recording demonstrating the application is included in this repository.
 
+https://github.com/iamayan17/netflix-clone/blob/main/demo/endpoint.mp4
+
 **Demo Video:** `demo/endpoint.mp4`
 
 ---
